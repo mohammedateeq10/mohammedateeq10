@@ -32,6 +32,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg](https://www.google.com/imgres?q=power%20bi%20logo&imgurl=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2022%2F02%2FMicrosoft-Power-BI-Symbol.png&imgrefurl=https%3A%2F%2Flogos-world.net%2Fpower-bi-logo%2F&docid=G-N3qPsf4AV2UM&tbnid=vqQ-BlaADh3ZPM&vet=12ahUKEwiT8sLSkfCNAxUs-TgGHVg1LIAQM3oECGwQAA..i&w=3840&h=2160&hcb=2&ved=2ahUKEwiT8sLSkfCNAxUs-TgGHVg1LIAQM3oECGwQAA)" height="40" alt="wordpress logo"  />
+
+  
 </div>
 
 ###
