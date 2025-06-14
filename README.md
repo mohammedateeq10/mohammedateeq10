@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
-  <img src="[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg](https://www.google.com/imgres?q=power%20bi%20logo&imgurl=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2022%2F02%2FMicrosoft-Power-BI-Symbol.png&imgrefurl=https%3A%2F%2Flogos-world.net%2Fpower-bi-logo%2F&docid=G-N3qPsf4AV2UM&tbnid=vqQ-BlaADh3ZPM&vet=12ahUKEwiT8sLSkfCNAxUs-TgGHVg1LIAQM3oECGwQAA..i&w=3840&h=2160&hcb=2&ved=2ahUKEwiT8sLSkfCNAxUs-TgGHVg1LIAQM3oECGwQAA)](https://www.google.com/imgres?q=power%20bi%20logo%20svg&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fcf%2FNew_Power_BI_Logo.svg%2F2048px-New_Power_BI_Logo.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANew_Power_BI_Logo.svg&docid=fElY9UANHz96jM&tbnid=HxhoY-wEwkdYOM&vet=12ahUKEwjF0sqSkvCNAxVYmq8BHX-ILxQQM3oECBwQAA..i&w=2048&h=2048&hcb=2&ved=2ahUKEwjF0sqSkvCNAxVYmq8BHX-ILxQQM3oECBwQAA)" height="40" alt="wordpress logo"  />
+  <img src="https://www.google.com/imgres?q=power%20bi%20logo%20svg&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fcf%2FNew_Power_BI_Logo.svg%2F2048px-New_Power_BI_Logo.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANew_Power_BI_Logo.svg&docid=fElY9UANHz96jM&tbnid=HxhoY-wEwkdYOM&vet=12ahUKEwjF0sqSkvCNAxVYmq8BHX-ILxQQM3oECBwQAA..i&w=2048&h=2048&hcb=2&ved=2ahUKEwjF0sqSkvCNAxVYmq8BHX-ILxQQM3oECBwQAA" height="40" alt="wordpress logo"  />
 
   
 </div>
