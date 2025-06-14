@@ -29,6 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="100" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://pragmaticworks.com/hs-fs/hubfs/social-suggested-images/Power-Bi-logo-transparent.png?width=655&height=400&name=Power-Bi-logo-transparent.png" height="70">
+  <img width="12" />
+  <img src="https://africanabi.com/wp-content/uploads/2021/05/MsExcel.png" height="100" alt="mysql logo"  />
 
 </div>
 
