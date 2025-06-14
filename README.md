@@ -51,7 +51,7 @@
 
 ###
 
-<p align="left">📐 Power BI: Proficient in Power BI Desktop, Power Query, Data Modeling, DAX, ETL, Power BI Service, and creating engaging reports and dashboards.<br>🛢️ SQL: Skilled in SQL Queries, Joins, CTEs, Window Functions, Aggregate Functions, and database management with MySQL and SQL Server.<br>📊 MS Excel: Advanced knowledge in Excel functions, data cleaning, Pivot Tables & Charts, MIS Dashboarding, and Power Query.<br>🐍 Python: Familiar with data manipulation and visualization using Numpy, Pandas, and Matplotlib.<br>🛠️ Other Tools: Google Sheets, MS Office Suite, PowerPoint, and Canva for comprehensive data analysis and presentation.</p>
+<p align="left">📐 <b>Power BI:</b> Proficient in Power BI Desktop, Power Query, Data Modeling, DAX, ETL, Power BI Service, and creating engaging reports and dashboards.<br>🛢️ SQL: Skilled in SQL Queries, Joins, CTEs, Window Functions, Aggregate Functions, and database management with MySQL and SQL Server.<br>📊 MS Excel: Advanced knowledge in Excel functions, data cleaning, Pivot Tables & Charts, MIS Dashboarding, and Power Query.<br>🐍 Python: Familiar with data manipulation and visualization using Numpy, Pandas, and Matplotlib.<br>🛠️ Other Tools: Google Sheets, MS Office Suite, PowerPoint, and Canva for comprehensive data analysis and presentation.</p>
 
 ###
 <h1 align="left">📱 Social Media Presence</h1>
