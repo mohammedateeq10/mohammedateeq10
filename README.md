@@ -39,8 +39,11 @@
 <h2 align="left">🧑🏽‍🎓 Certificates:</h2>
 
 ###
-
+<p align="left">Google Data Analytics - Coursera</p>
 <p align="left">Excel: Mother of Business Intelligence</p>
+<p align="left">AWS Compute Services– AWS Training</p>
+<p align="left">HackerRank SQL</p>
+
 
 ###
 
