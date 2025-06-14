@@ -29,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="100" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://www.clipartmax.com/png/middle/434-4343754_python-logo.png" height="100">
+  <img src="https://images.seeklogo.com/logo-png/50/2/power-bi-logo-png_seeklogo-507714.png" height="100">
 
 </div>
 
