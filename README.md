@@ -16,21 +16,21 @@
 ###
 
 <div align="left">
-  <img src="https://www.iconninja.com/files/982/335/815/logo-python-icon.svg" height="70" alt="python logo"  />
+  <img src="https://www.iconninja.com/files/982/335/815/logo-python-icon.svg" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png" height="70" alt="jupyter logo"  />
+  <img src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png" height="60" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" height="70" alt="numpy logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" height="60" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" height="70" alt="pandas logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" height="60" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="70" alt="mysql logo"  />
+  <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="60" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="70" alt="wordpress logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="60" alt="wordpress logo"  />
   <img width="12" />
-  <img src="https://pragmaticworks.com/hs-fs/hubfs/social-suggested-images/Power-Bi-logo-transparent.png?width=655&height=400&name=Power-Bi-logo-transparent.png" height="50">
+  <img src="https://pragmaticworks.com/hs-fs/hubfs/social-suggested-images/Power-Bi-logo-transparent.png?width=655&height=400&name=Power-Bi-logo-transparent.png" height="45">
   <img width="12" />
-  <img src="https://www.hertiecodingclub.com/learn/rstudio/install-r-studio/images/rstudio.png" height="50" alt="mysql logo"  />
+  <img src="https://www.hertiecodingclub.com/learn/rstudio/install-r-studio/images/rstudio.png" height="45" alt="mysql logo"  />
 
 </div>
 
