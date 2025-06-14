@@ -28,9 +28,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="100" alt="wordpress logo"  />
   <img width="12" />
-  <img src="https://www.clipartmax.com/png/middle/434-4343754_python-logo.png" height="100">
-  <img width="12" />
-  <img src="https://img.favpng.com/17/5/20/power-bi-logo-business-intelligence-font-data-png-favpng-rMHDH9SAbEZ5sA16EZ9B9siGS.jpg" height="100">
+  <img src="https://pragmaticworks.com/hs-fs/hubfs/social-suggested-images/Power-Bi-logo-transparent.png?width=655&height=400&name=Power-Bi-logo-transparent.png" height="100">
 
 </div>
 
