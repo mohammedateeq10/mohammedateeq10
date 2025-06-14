@@ -59,3 +59,5 @@
 ###
 <p align="left">🎥 YouTube Channel: Ateeq10 with 8.8K+ subscribers.<br><br>🧠 Gained hands-on experience in content creation and digital growth strategies.<br><br>
 ✂️ Learned video editing using tools like Adobe Premiere Pro, CapCut.<br><br>🧲 Mastered YouTube SEO to boost visibility and engagement.<br><br>🎨 Designed eye-catching thumbnails to improve click-through rates.<br><br>🔍 Conducted effective keyword research to optimize video titles, tags, and descriptions.<br><br>📊 Continuously analyzing video performance to improve content strategy and audience retention.</p>
+
+<img src="https://drive.google.com/file/d/10-mqak5Tog-2zdyF4iN81iQtfL4yDlDk/view?usp=sharing" height="45" alt="mysql logo"  />
