@@ -3,7 +3,6 @@
 ###
 <br clear="both">
 <p align="left">An enthusiastic Data Analyst and emerging Data Scientist, driven by curiosity and a love for turning raw data into meaningful insights and impactful solutions.</p>
-###
 <h2 align="left">About me</h2>
 
 ###
