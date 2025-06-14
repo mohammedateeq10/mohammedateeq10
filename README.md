@@ -61,6 +61,4 @@
 ✂️ Learned video editing using tools like Adobe Premiere Pro, CapCut.<br><br>🧲 Mastered YouTube SEO to boost visibility and engagement.<br><br>🎨 Designed eye-catching thumbnails to improve click-through rates.<br><br>🔍 Conducted effective keyword research to optimize video titles, tags, and descriptions.<br><br>📊 Continuously analyzing video performance to improve content strategy and audience retention.</p>
 
 ![Image](https://github.com/user-attachments/assets/017d489d-515a-4737-aaff-6734fadde465)
-<img src="C:\Users\Dell\OneDrive\Pictures\Screenshots\Screenshot 2025-06-14 184805.png" height="45" alt="mysql logo"  />
 
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 75%;"><iframe src="https://drive.google.com/file/d/10-mqak5Tog-2zdyF4iN81iQtfL4yDlDk/preview" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
