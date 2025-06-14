@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
-  <img src="https://www.google.com/imgres?q=power%20bi%20logo%20svg&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fcf%2FNew_Power_BI_Logo.svg%2F2048px-New_Power_BI_Logo.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANew_Power_BI_Logo.svg&docid=fElY9UANHz96jM&tbnid=HxhoY-wEwkdYOM&vet=12ahUKEwjF0sqSkvCNAxVYmq8BHX-ILxQQM3oECBwQAA..i&w=2048&h=2048&hcb=2&ved=2ahUKEwjF0sqSkvCNAxVYmq8BHX-ILxQQM3oECBwQAA" height="40" alt="wordpress logo"  />
+  <img src="https://uxwing.com/power-bi-icon/" height="40" alt="wordpress logo"  />
 
   
 </div>
