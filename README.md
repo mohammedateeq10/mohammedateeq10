@@ -59,8 +59,7 @@
 ###
 <p align="left">🎥 YouTube Channel: Ateeq10 with 8.8K+ subscribers.<br><br>🧠 Gained hands-on experience in content creation and digital growth strategies.<br><br>
 ✂️ Learned video editing using tools like Adobe Premiere Pro, CapCut.<br><br>🧲 Mastered YouTube SEO to boost visibility and engagement.<br><br>🎨 Designed eye-catching thumbnails to improve click-through rates.<br><br>🔍 Conducted effective keyword research to optimize video titles, tags, and descriptions.<br><br>📊 Continuously analyzing video performance to improve content strategy and audience retention.<br><br> <a href="https://www.youtube.com/@Ateeq10" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="YouTube" width="24" height="24" style="vertical-align:middle; margin-right:8px;">
-  <strong>Ateeq10</strong> 8.8K+ subscribers
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="YouTube" width="24" height="24" style="vertical-align:middle; margin-right:8px;"><strong>Ateeq10</strong> 8.8K+ subscribers
 </a>
 </p>
 
