@@ -28,7 +28,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
-  <img src="https://www.iconninja.com/files/319/353/65/logo-python-icon.png" height="60">
+  <img src="https://www.iconninja.com/files/319/353/65/logo-python-icon.png" height="100">
 
 </div>
 
