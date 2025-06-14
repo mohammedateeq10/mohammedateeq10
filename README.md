@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">🧹 Turn messy data into clean, usable information<br><br>🔎 Explore data to find trends, patterns, and insights<br><br>📊 Create easy-to-understand charts and dashboards<br><br>📈 Use stats to answer real-world questions<br><br>🤖 Build simple machine learning models to make predictions<br><br>🧾 Work with all kinds of data — from spreadsheets to raw text</p>
+<p align="left">🧹 Turn messy data into clean, usable information.<br><br>🔎 Explore data to find trends, patterns, and insights.<br><br>📊 Create easy-to-understand charts and dashboards.<br><br>📈 Use stats to answer real-world questions.<br><br>🤖 Build simple machine learning models to make predictions.<br><br>🧾 Work with all kinds of data — from spreadsheets to raw text.</p>
 
 ###
 
@@ -51,11 +51,11 @@
 
 ###
 
-<p align="left">📐 <b>Power BI:</b> Proficient in Power BI Desktop, Power Query, Data Modeling, DAX, ETL, Power BI Service, and creating engaging reports and dashboards.<br>🛢️ SQL: Skilled in SQL Queries, Joins, CTEs, Window Functions, Aggregate Functions, and database management with MySQL and SQL Server.<br>📊 MS Excel: Advanced knowledge in Excel functions, data cleaning, Pivot Tables & Charts, MIS Dashboarding, and Power Query.<br>🐍 Python: Familiar with data manipulation and visualization using Numpy, Pandas, and Matplotlib.<br>🛠️ Other Tools: Google Sheets, MS Office Suite, PowerPoint, and Canva for comprehensive data analysis and presentation.</p>
+<p align="left">📐 <b>Power BI:</b> Proficient in Power BI Desktop, Power Query, Data Modeling, DAX, ETL, Power BI Service, and creating engaging reports and dashboards.<br>🛢️ <b>SQL:</b> Skilled in SQL Queries, Joins, CTEs, Window Functions, Aggregate Functions, and database management with MySQL and SQL Server.<br>📊 <b>MS Excel:</b> Advanced knowledge in Excel functions, data cleaning, Pivot Tables & Charts, MIS Dashboarding, and Power Query.<br>🐍 <b>Python:</b> Familiar with data manipulation and visualization using Numpy, Pandas, and Matplotlib.<br>🛠️ Other Tools: Google Sheets, MS Office Suite, PowerPoint, and Canva for comprehensive data analysis and presentation.</p>
 
 ###
 <h1 align="left">📱 Social Media Presence</h1>
 
 ###
-<p align="left">🎥 YouTube Channel: Ateeq10 with 8.8K+ subscribers<br><br>🧠 Gained hands-on experience in content creation and digital growth strategies<br><br>
-✂️ Learned video editing using tools like Adobe Premiere Pro, CapCut.<br><br>🧲 Mastered YouTube SEO to boost visibility and engagement<br><br>🎨 Designed eye-catching thumbnails to improve click-through rates<br><br>🔍 Conducted effective keyword research to optimize video titles, tags, and descriptions<br><br>📊 Continuously analyzing video performance to improve content strategy and audience retention</p>
+<p align="left">🎥 YouTube Channel: Ateeq10 with 8.8K+ subscribers.<br><br>🧠 Gained hands-on experience in content creation and digital growth strategies.<br><br>
+✂️ Learned video editing using tools like Adobe Premiere Pro, CapCut.<br><br>🧲 Mastered YouTube SEO to boost visibility and engagement.<br><br>🎨 Designed eye-catching thumbnails to improve click-through rates.<br><br>🔍 Conducted effective keyword research to optimize video titles, tags, and descriptions.<br><br>📊 Continuously analyzing video performance to improve content strategy and audience retention.</p>
