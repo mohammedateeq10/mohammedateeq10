@@ -54,7 +54,7 @@
 <p align="left">📐 <b>Power BI:</b> Proficient in Power BI Desktop, Power Query, Data Modeling, DAX, ETL, Power BI Service, and creating engaging reports and dashboards.<br>🛢️ <b>SQL:</b> Skilled in SQL Queries, Joins, CTEs, Window Functions, Aggregate Functions, and database management with MySQL and SQL Server.<br>📊 <b>MS Excel:</b> Advanced knowledge in Excel functions, data cleaning, Pivot Tables & Charts, MIS Dashboarding, and Power Query.<br>🐍 <b>Python:</b> Familiar with data manipulation and visualization using Numpy, Pandas, and Matplotlib.<br>🛠️ Other Tools: Google Sheets, MS Office Suite, PowerPoint, and Canva for comprehensive data analysis and presentation.</p>
 
 ###
-<h1 align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="YouTube" width="30" height="30" style="vertical-align:middle; margin-right:8px;"> Social Media Presence</h1>
+<h1 align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="YouTube" width="27" height="27" style="vertical-align:middle; margin-right:8px;"> Social Media Presence</h1>
 
 ###
 ![Image](https://github.com/user-attachments/assets/c8be5657-3b84-4a83-a5fd-c74613ed5894)
