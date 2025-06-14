@@ -54,11 +54,11 @@
 <p align="left">📐 <b>Power BI:</b> Proficient in Power BI Desktop, Power Query, Data Modeling, DAX, ETL, Power BI Service, and creating engaging reports and dashboards.<br>🛢️ <b>SQL:</b> Skilled in SQL Queries, Joins, CTEs, Window Functions, Aggregate Functions, and database management with MySQL and SQL Server.<br>📊 <b>MS Excel:</b> Advanced knowledge in Excel functions, data cleaning, Pivot Tables & Charts, MIS Dashboarding, and Power Query.<br>🐍 <b>Python:</b> Familiar with data manipulation and visualization using Numpy, Pandas, and Matplotlib.<br>🛠️ Other Tools: Google Sheets, MS Office Suite, PowerPoint, and Canva for comprehensive data analysis and presentation.</p>
 
 ###
-<h1 align="left">📱 Social Media Presence</h1>
+<h1 align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="YouTube" width="20" height="20" style="vertical-align:middle; margin-right:8px;"> Social Media Presence</h1>
 
 ###
 ![Image](https://github.com/user-attachments/assets/c8be5657-3b84-4a83-a5fd-c74613ed5894)
-<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="YouTube" width="20" height="20" style="vertical-align:middle; margin-right:8px;"> YouTube Channel: <a href="https://www.youtube.com/@Ateeq10" target="_blank">Ateeq10</a> with 8.8K+ subscribers.<br><br>📊 Continuously analyzing video performance to improve content strategy and to educate audience.<br><br>🧠 Gained hands-on experience in content creation and digital growth strategies.<br><br>✂️ Learned video editing using tools like Adobe Premiere Pro, CapCut.<br><br>🧲 Mastered YouTube SEO to boost visibility and engagement.<br><br>🎨 Designed eye-catching thumbnails to improve click-through rates.<br><br>🔍 Conducted effective keyword research to optimize video titles, tags, and descriptions.<br><br> 
+<p align="left"> 🎥 YouTube Channel: <a href="https://www.youtube.com/@Ateeq10" target="_blank">Ateeq10</a> with 8.8K+ subscribers.<br><br>📊 Continuously analyzing video performance to improve content strategy and to educate audience.<br><br>🧠 Gained hands-on experience in content creation and digital growth strategies.<br><br>✂️ Learned video editing using tools like Adobe Premiere Pro, CapCut.<br><br>🧲 Mastered YouTube SEO to boost visibility and engagement.<br><br>🎨 Designed eye-catching thumbnails to improve click-through rates.<br><br>🔍 Conducted effective keyword research to optimize video titles, tags, and descriptions.<br><br> 
   
 </p>
 
