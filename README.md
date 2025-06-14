@@ -18,7 +18,7 @@
 <div align="left">
   <img src="https://www.iconninja.com/files/982/335/815/logo-python-icon.svg" height="120" alt="python logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" height="100" alt="jupyter logo"  />
+  <img src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png" height="100" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" height="100" alt="numpy logo"  />
   <img width="12" />
