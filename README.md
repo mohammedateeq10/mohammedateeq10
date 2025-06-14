@@ -27,7 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img src="https://freesvg.org/img/387.png" alt="Description of image" width="300" height="200">
+  <img width="12" />
+  <img src="https://www.iconninja.com/files/319/353/65/logo-python-icon.png" width="300" height="200">
 
 </div>
 
